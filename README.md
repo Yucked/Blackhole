@@ -1,9 +1,11 @@
 # Screw10
 
-net stop wuauserv
-net stop bits
-net stop dosvc
+### `Pause Windows 10 Update`
+net stop wuauserv \
+net stop bits \
+net stop dosvc \
 
+### `For host files?`
 ```
 127.0.0.1 windowsupdate.microsoft.com
 127.0.0.1 update.microsoft.com
@@ -155,5 +157,4 @@ settings.data.glbdns2.microsoft.com
 OneSettings-bn2.metron.live.com.nsatc.net
 watson.telemetry.microsoft.com
 watson.telemetry.microsoft.com.nsatc.net
-
 ````
