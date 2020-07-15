@@ -2,7 +2,6 @@ windowsupdate.microsoft.com
 update.microsoft.com
 windowsupdate.com
 download.windowsupdate.com
-download.microsoft.com
 wustat.windows.com
 ntservicepack.microsoft.com
 stats.microsoft.com
@@ -88,10 +87,8 @@ sO.2mdn.net
 v10.vortex-win.data.microsoft.com
 ws.microsoft
 crl.microsoft.com
-office.microsoft.com
 officeupdate.microsoft.com
 v4.windowsupdate
-support.microsoft.com
 v20.vortex-win.data.microsoft.com
 tsfe.trafficshaping.dsp.mp.microsoft.com
 dns.msftncsi.com
@@ -110,7 +107,6 @@ fe3.delivery.mp.microsoft.com
 fe3.delivery.dsp.mp.microsoft.com.nsatc.net
 ssw.live.com
 ssw.live.com.nsatc.net
-login.live.com
 login.live.com.nsatc.net
 directory.services.live.com
 bl3302.storage.live.com
@@ -124,3 +120,4 @@ watson.telemetry.microsoft.com.nsatc.net
 ctldl.windowsupdate.com
 slscr.update.microsoft.com
 sls.update.microsoft.com
+activity.windows.com
