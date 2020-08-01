@@ -52,7 +52,6 @@ feedback.windows.com
 feedback.microsoft-hohm.com
 feedback.search.microsoft.com
 rad.msn.com
-preview.msn.com
 ads.msn.com
 ads1.msads.net
 ads1.msn.com
@@ -101,7 +100,6 @@ client.wns.windows.com
 wildcard.appex-rf.msn.com.edgesuite.net
 v10.vortex-win.data.metron.life.com.nsatc.net
 travel.tile.appex.bing.com
-www.bing.com
 any.edge.bing.com
 fe3.delivery.mp.microsoft.com
 fe3.delivery.dsp.mp.microsoft.com.nsatc.net
