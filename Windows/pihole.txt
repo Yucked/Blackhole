@@ -119,3 +119,14 @@ ctldl.windowsupdate.com
 slscr.update.microsoft.com
 sls.update.microsoft.com
 activity.windows.com
+emdl.ws.microsoft.com
+fe2cr.update.microsoft.com
+fe3cr.delivery.mp.microsoft.com
+download.windowsupdate.com
+slscr.update.microsoft.com
+*.au.download.windowsupdate.com
+*.prod.do.dsp.mp.microsoft.com
+*.delivery.mp.microsoft.com
+*.update.microsoft.com
+*.windowsupdate.com
+*dl.delivery.mp.microsoft.com
